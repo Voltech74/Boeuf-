@@ -1,0 +1,9 @@
+main: fr.Voltech74.BoeufBourgignon.Boeuf
+name: BoeufBourgignon
+version: 1.0
+description: Lancer un BoeufBourgignon.
+author: voltech74
+commands:
+   BoeufBourgignon:
+      default: op
+      aliases: [bb, boeuf]
